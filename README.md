@@ -12,7 +12,6 @@
 - 💡 I love making interfaces that feel *just right*.
 - 🤖 Currently exploring Generative AI and LLMs.
 - 🔄 Refactoring code and my to-do list — constantly.
-- 🧩 Debugging ChatGPT’s answers is part of the fun.
 - 🧪 Always building, always learning.
 
 ---
