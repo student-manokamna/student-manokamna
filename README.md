@@ -1,5 +1,6 @@
 # 💫 Hi 👋, I'm Manokamna
 🎓 B.Tech in Electronics and Communication Engineering (ECE) | IGDTUW | 2023–2027
+
 🚀 Exploring full-stack development & AI  
 🌈 Creating beautiful UIs & solving bugs that disappear when you hit `print()`  
 🧠 Blending logic + creativity = my happy zone
